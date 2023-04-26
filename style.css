@@ -4,7 +4,7 @@ html
     height:fit-content;
 }
 body{
-    background-image: linear-gradient(to right top, #17335e, #006798, #009ca6, #00cd7f, #b8f237);
+    background-image: linear-gradient(to right top, #0b2649, #003a5a, #004d5b, #005d4e, #2b6b39);
     margin: 30px 30px 0px 30px;
     display: flex;
     flex-direction: column;
