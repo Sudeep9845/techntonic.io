@@ -1,0 +1,35 @@
+body{
+    background-image: linear-gradient(to right top, #17335e, #006798, #009ca6, #00cd7f, #b8f237);
+    margin: 30px 30px 0px 30px;
+    display: flex;
+    flex-direction: column;
+    min-height: 95vh;}
+.details h2
+{
+    color: rgb(79, 246, 146);
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 45px;
+    margin-top: 10px;}
+.details,.sub{
+    color: whitesmoke;
+    font-size: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.details,.desc{
+    padding-left: 15px;
+}
+@media (max-width:680px) {
+    .logo
+    {
+      width: 100%;
+    } 
+    .desc,h2{
+        font-size: 25px;
+        text-align: start;
+    }
+    p,h3,ul{
+        font-size: 20px;
+        text-align:start;
+    }
+
+    }
